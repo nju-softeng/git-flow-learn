@@ -1,10 +1,16 @@
-# test
+<p align="center">
+    <img width="280" src="https://raw.githubusercontent.com/zhanyeye/Figure-bed/win-pic/img/20210602141834.png">
+</p>
+<h1 align="center">Git Flow Test</h1>
+> 用于学习测试开发流程
 
-test
-test2
-test3
-test4
-test5
-test6
-test7
-test8
++ `main` 主干分支 （保护分支）
++ `feature` 特性分支 （保护分支)
++ `personal/**`  个人分支
+
+---
+
+测试修改
+```
+commit 1
+```
