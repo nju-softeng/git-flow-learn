@@ -9,7 +9,7 @@
 + `release` 发布分支 （保护分支)
 + `personal/username/**` 个人分支 (用完即删)
 + `feature/**` 特性分支 (多人合作用，用完即删)
-
++ `bugfix/**` 修复bug分支 (用完即删)
 <h1 align="center"></h1>
 
 测试commit区：
