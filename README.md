@@ -1,7 +1,7 @@
 <p align="center">
     <img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
-<h1 align="center">Git Flow Test</h1>
+<h1 align="center">Git Flow Learn</h1>
 
 > 用于学习测试开发流程
 
