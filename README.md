@@ -3,10 +3,10 @@
 </p>
 <h1 align="center">Git Flow Learn</h1>
 
-> 用于学习测试开发流程, 可以直接操作尝试，或 fork 后操作尝试。
+> 用于学习测试开发流程, 可以直接尝试或 fork 后尝试。
 
 #### Git 工作流程：
-最大原则是："上游优先"（upsteam first），即只存在一个主分支`main`，它是所有其他分支的"上游"。只有上游分支采纳的代码变化，才能应用到其他分支。长期分支只保留`main`和`release`,其他分支用完即删。
+最大原则是"上游优先"（upsteam first），即只存在一个主分支`main`，它是所有其他分支的"上游"。只有上游分支采纳的代码变化，才能应用到其他分支。长期分支只保留`main`和`release`,其他分支用完即删。
 + `main` 主干分支 （保护分支）
 + `release` 发布分支 （保护分支)
 + `bugfix/**` 修复bug分支 (用完即删)
@@ -15,7 +15,7 @@
 
 
 <div align=center>
-    <img width="600" src="https://user-images.githubusercontent.com/35565811/146736286-ee5bf967-7fd7-428b-83f4-0cd486faf7b0.png">
+    <img width="700" src="https://user-images.githubusercontent.com/35565811/146736286-ee5bf967-7fd7-428b-83f4-0cd486faf7b0.png">
 </div>
 
 
