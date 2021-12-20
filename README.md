@@ -15,7 +15,7 @@
 
 
 <div align=center>
-    <img width="700" src="https://user-images.githubusercontent.com/35565811/146736286-ee5bf967-7fd7-428b-83f4-0cd486faf7b0.png">
+    <img width="750" src="https://user-images.githubusercontent.com/35565811/146736286-ee5bf967-7fd7-428b-83f4-0cd486faf7b0.png">
 </div>
 
 
