@@ -10,6 +10,10 @@
 + `personal/username/**` 个人分支 (用完即删)
 + `feature/**` 特性分支 (多人合作用，用完即删)
 + `bugfix/**` 修复bug分支 (用完即删)
+
+
+<img width="600" src="https://user-images.githubusercontent.com/35565811/146736286-ee5bf967-7fd7-428b-83f4-0cd486faf7b0.png">
+
 <h1 align="center"></h1>
 
 测试commit区：
