@@ -3,14 +3,14 @@
 </p>
 <h1 align="center">Git Flow Learn</h1>
 
-> 用于学习测试开发流程
+> 用于学习测试开发流程, 可以直接操作尝试，或 fork 后操作尝试。
 
 #### Git 工作流程：
-最大原则是："上游优先"（upsteam first），即只存在一个主分支main，它是所有其他分支的"上游"。只有上游分支采纳的代码变化，才能应用到其他分支。
+最大原则是："上游优先"（upsteam first），即只存在一个主分支`main`，它是所有其他分支的"上游"。只有上游分支采纳的代码变化，才能应用到其他分支。长期分支只保留`main`和`release`,其他分支用完即删。
 + `main` 主干分支 （保护分支）
 + `release` 发布分支 （保护分支)
-+ + `bugfix/**` 修复bug分支 (用完即删)
-+ + `feature/**` 特性分支 (多人合作完成某一特性时用，用完即删)
++ `bugfix/**` 修复bug分支 (用完即删)
++ `feature/**` 特性分支 (多人合作完成某一特性时用，用完即删)
 + `personal/username/**` 个人分支 (用完即删)
 
 
@@ -31,7 +31,5 @@ commit 5
 commit 6
 commit 7
 commit 8
-fixbug 1
-test 2
 commit x
 ```
