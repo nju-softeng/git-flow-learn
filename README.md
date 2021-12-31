@@ -1,7 +1,7 @@
 <p align="center">
     <img width="100" src="https://user-images.githubusercontent.com/35565811/147811357-20cbb197-8080-483c-9bbb-9bfddf6d8a3e.png">
 </p>
-<h1 align="center">Git Flow Learn</h1>
+<h2 align="center">Git Flow Learn</h2>
 
 > 用于学习测试开发流程, 可以直接尝试或 fork 后尝试。
 
